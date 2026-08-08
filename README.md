@@ -23,12 +23,12 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly selects i
 
 When the game starts, enter one of these choices:
 
-rock
-paper
-scissors
+* rock
+* paper
+* scissors
 
 
-The computer will randomly choose one as well.
+* The computer will randomly choose one as well.
 
 ### Winning Rules
 
@@ -45,10 +45,10 @@ The computer will randomly choose one as well.
 
 Enter your choice (rock, paper, scissors): rock
 
-You chose: rock
-Computer chose: scissors
+* You chose: rock
+* Computer chose: scissors
 
-YaY!! You Win
+* YaY!! You Win
 
 
 ## 📚 Concepts Used
@@ -70,4 +70,3 @@ This project demonstrates basic Python concepts such as:
 ---
 
 ⭐ A beginner-friendly Python project for practicing basic programming and conditional statements.
-# Rock-Paper-Scissors-Game
