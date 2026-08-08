@@ -24,7 +24,6 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly selects i
 
 When the game starts, enter one of these choices:
 
-```text
 rock
 paper
 scissors
