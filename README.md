@@ -18,7 +18,6 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly selects i
 * **Random Module**
 
 
-```
 
 ## 🎯 How to Play
 
@@ -27,7 +26,7 @@ When the game starts, enter one of these choices:
 rock
 paper
 scissors
-```
+
 
 The computer will randomly choose one as well.
 
@@ -43,14 +42,14 @@ The computer will randomly choose one as well.
 
 ## 💻 Example
 
-```text
+
 Enter your choice (rock, paper, scissors): rock
 
 You chose: rock
 Computer chose: scissors
 
 YaY!! You Win
-```
+
 
 ## 📚 Concepts Used
 
